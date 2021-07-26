@@ -1,3 +1,5 @@
+import MainLayout from "./MainLayout"
+
 // Home
 import Home from "./Home/Home"
 
@@ -14,6 +16,7 @@ import Favourite from "./Favourite/Favourite";
 import Notification from "./Notification/Notification"
 
 export {
+    MainLayout,
     Home,
     Search,
     CartTab,
